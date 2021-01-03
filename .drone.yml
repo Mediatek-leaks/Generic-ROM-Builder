@@ -1,5 +1,5 @@
 kind: pipeline
-name: MaestroCI Build Bot
+name: MaestrCI Build Bot
 node:
   instance: android-buildbot
 steps:
